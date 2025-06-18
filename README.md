@@ -97,4 +97,4 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 ## 🙏 Agradecimentos
 
 - Bandai Namco pela criação da franquia Digimon
-- Comunidade Digimon por manter viva a paixão pela franquia 
+- Comunidade Digimon por manter viva a paixão pela franquia
